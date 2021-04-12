@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Vue Desktop
-description: Vue Desktop Apps
-url: https://www.vuedesktop.com
-repository: ServiceStack/vuedesktop.com
+title: Staging Docs
+description: Staging Docs
+url: http://mythz.servicestack.net/staging/
+repository: mythz/staging
 google_analytics_key: 
 
 collections:
