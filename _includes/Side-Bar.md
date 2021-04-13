@@ -2,4 +2,4 @@
 
 - [Getting Started](/)
 - [Test Page](/test-page)
-- [Video notes for 5.10.6](/video-notes-for-5.10.6-release)
+- [Video notes for 5.10.6](/video-notes)

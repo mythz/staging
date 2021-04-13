@@ -1,5 +1,5 @@
 ---
-slug: video-notes-for-5-10-6-release
+slug: video-notes
 title: Video notes for 5.10.6
 ---
 
