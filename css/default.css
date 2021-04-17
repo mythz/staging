@@ -168,7 +168,7 @@ pre.highlight {
     padding: .75rem .25rem 0 .25rem;
 }
 
-.tpl th {
+.text-center, .tpl th {
     text-align: center;
 }
 .tpl-desc {
@@ -203,6 +203,7 @@ pre {
     cursor: pointer;
 }
 
+.text-green-500	{ --tw-text-opacity: 1; color: rgba(16, 185, 129, var(--tw-text-opacity)) }
 
 @media (max-width: 1580px) {
     #content {
