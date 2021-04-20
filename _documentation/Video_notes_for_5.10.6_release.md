@@ -73,4 +73,4 @@ ServiceStack Studio can be used for prototyping or even managing services, data,
 
 To demonstrate our new free [Instant Client Apps](https://apps.servicestack.net/) tool, we've created a video walk through of using it to create a mobile Flutter Android application. The tutorial steps through using Instant Client Apps in your workflows by generating a working Dart client app that is then incorporated into the new Flutter application.
 
-<iframe width="896" height="525" src="https://www.youtube.com/embed/5crcDfl467Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="896" height="525" src="https://www.youtube.com/embed/GTnuMhvUayg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
